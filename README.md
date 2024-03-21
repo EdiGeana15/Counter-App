@@ -1,6 +1,6 @@
-First Java Script Project
+#First Java Script Project
 
-* link here 
+## link here 
 
-* https://edigeana15.github.io/Counter-App/ 
+### https://edigeana15.github.io/Counter-App/ 
 
